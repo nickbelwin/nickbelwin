@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sarvesh Belwalkar( @nickbelwin ).
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning HTML, CSS, Javascript, Bootstrap, React.js and Redux. 
+- 🌱 I’m good with HTML, CSS, Javascript, Tailwind, React.js. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me belwalkarsarvesh@gmail.com
 
