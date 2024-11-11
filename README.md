@@ -7,15 +7,11 @@
 
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-- 🔭 I’m currently working on **MakeMyTrip Clone**
+- 🔭 I’m currently working on **HRMS System**
 
-- 🌱 I’m currently learning **mongoDB,express.js,Node.js**
-
-- 👯 I’m looking to collaborate on **React.js**
+- 🌱 TechStack known **React.js,Tailwind CSS,MySQL,express.js,Node.js**
 
 - 👨‍💻 All of my projects are available at [https://nickbelwin.github.io/sarveshPortfolioo/](https://nickbelwin.github.io/sarveshPortfolioo/)
-
-- 💬 Ask me about **JavaScript, React.js**
 
 - 📫 How to reach me **belwalkarsarvesh@gmail.com**
 
