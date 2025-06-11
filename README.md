@@ -1,7 +1,7 @@
 <img align="center" src="https://camo.githubusercontent.com/56a476fe9237772bb815bb849462962f0ba92893232bdac9010ff8f5c5cf4117/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313239393333392f73637265656e73686f74732f323937323133302f68656c6c6f5f776f726c642e676966">
 
 <h1 align="center">Hi 👋, I'm Sarvesh Belwalkar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nickbelwin&label=Profile%20views&color=0e75b6&style=flat" alt="nickbelwin" /> </p>
 
